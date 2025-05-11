@@ -60,15 +60,6 @@
     "Leaforb Stone +1"=
     "Leafdim Stone +1"=
     "Leafslit Stone +1"=
-    "Worn Sack (LT+1)"=
-    "Worn Sack (SD+1)"=
-    "Worn Sack (LD+1)"=
-    "Worn Sack (DD+1)"=
-    "Worn Sack (SO+1)"=
-    "Worn Sack (LO+1)"=
-    "Worn Sack (DO+1)"=
-    "Worn Sack (ST+1)"=
-    "Worn Sack (DS+1)"=
 	"Coin of Adv."=307
 	"Coin of Ruin"=238
 	"Coin of Glory"=66
