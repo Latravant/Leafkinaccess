@@ -22,7 +22,7 @@
 "Airlixir +2"=7
 "Tartarian Soul"=65
 "Voidwrought Plate"=17
-"Etched Memory"=294
+"Etched Memory"=N/A
 "Sarama's Hide"=1
 "Mephitas's Claw"=1
 "Harold's Ore"=1
