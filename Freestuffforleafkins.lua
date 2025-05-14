@@ -6,7 +6,7 @@
 "Seal of Suzaku"=2
 "Suzaku Scrap"=2
 "Seal of Byakko"=1
-"Monkey Wine"=4
+"Monkey Wine"=5
 "Singed Buffalo"=6
 "Buffalo Corpse"=2	
 "Pluton"=2587
@@ -23,7 +23,6 @@
 "Tartarian Soul"=65
 "Voidwrought Plate"=17
 "Etched Memory"=N/A
-"Sarama's Hide"=1
 "Mephitas's Claw"=1
 "Harold's Ore"=1
 "Immani. Hide"=10
