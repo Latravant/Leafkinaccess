@@ -4,8 +4,8 @@
 "Seal of Seiryu"=3
 "Seal of Genbu"=2
 "Seal of Suzaku"=2
-"Suzaku Scrap"=2
 "Seal of Byakko"=1
+"Suzaku Scrap"=2
 "Monkey Wine"=5
 "Singed Buffalo"=6
 "Buffalo Corpse"=2	
