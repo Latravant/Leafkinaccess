@@ -9,9 +9,9 @@
 "Monkey Wine"=5
 "Singed Buffalo"=6
 "Buffalo Corpse"=2	
-"Pluton"=2587
-"Pluton Case"=26
-"Pluton Box"=15
+"Pluton"=0
+"Pluton Case"=0
+"Pluton Box"=0
 "H-P Bayld"=411
 "Ghastly Stone +1"=36
 "Ghastly Stone +2"=72
