@@ -1,10 +1,10 @@
 "O. Bronzepiece"=16
 "T. Whiteshell"=6
 "1 Byne Bill"=10
-"Seal of Seiryu"=3
-"Seal of Genbu"=2
-"Seal of Suzaku"=2
-"Seal of Byakko"=1
+"Seal of Seiryu"=1
+"Seal of Genbu"=1
+"Seal of Suzaku"=
+"Seal of Byakko"=0
 "Suzaku Scrap"=2
 "Monkey Wine"=5
 "Singed Buffalo"=6
