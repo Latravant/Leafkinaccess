@@ -8,11 +8,11 @@
 "Suzaku Scrap"=2
 "Monkey Wine"=5
 "Singed Buffalo"=6
-"Buffalo Corpse"=2	
+"Buffalo Corpse"=1
 "Pluton"=0
 "Pluton Case"=0
 "Pluton Box"=0
-"H-P Bayld"=411
+"H-P Bayld"=0
 "Ghastly Stone +1"=36
 "Ghastly Stone +2"=72
 "Wailing Stone +1"=25
