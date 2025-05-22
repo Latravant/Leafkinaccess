@@ -8,7 +8,7 @@
 "Suzaku Scrap"=2
 "Monkey Wine"=5
 "Singed Buffalo"=6
-"Buffalo Corpse"=1
+"Buffalo Corpse"=0
 "Pluton"=0
 "Pluton Case"=0
 "Pluton Box"=0
